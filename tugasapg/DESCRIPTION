@@ -1,0 +1,12 @@
+Package: tugasapg
+Type: Package
+Title: Kumpulan Fungsi-Fungsi Tugas APG
+Version: 0.1.0
+Author: person("Arif","Wicaksono",email="13.7511@stis.ac.id",role=c("aut","cre")
+Maintainer: TeamAPG <13.7511@stis.ac.id>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Imports: graphics, stats
+License: CC0
+Encoding: UTF-8
+LazyData: true
